@@ -1,0 +1,6 @@
+employes:[
+    {"firstName":"John", "lastName":"Doe", "address": "Bryansk", "age":25, "country": "Russia"},
+    {"firstName":"Anna", "lastName":"Smith", "address": "Smolensk", "age":30, "country": "Russia"},
+    {"firstName":"Peter", "lastName":"Jones", "address": "Moscow", "age":27, "country": "Russia"},
+    {"firstName":"Nikita","lastName":"Uzhakin", "address": "Khabarovsk", "age":18, "country": "Russia"},
+    {"firstName":"Oksana","lastName":"Uzhakina", "address": "Saratov", "age":35, "country": "Russia"}]
